@@ -1,0 +1,14 @@
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\obj\Debug\ThreeLayer.Common.csprojAssemblyReference.cache
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\obj\Debug\ThreeLayer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.Common.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.Common.pdb
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.BLL.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.DAL.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.Entities.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.BLL.pdb
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.DAL.pdb
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.Entities.pdb
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\bin\Debug\ThreeLayer.Entities.dll.config
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\obj\Debug\ThreeLayer.Common.csproj.CopyComplete
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\obj\Debug\ThreeLayer.Common.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Common\obj\Debug\ThreeLayer.Common.pdb
