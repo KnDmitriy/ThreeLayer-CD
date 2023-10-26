@@ -1,0 +1,7 @@
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\bin\Debug\ThreeLayer.Entities.dll.config
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\bin\Debug\ThreeLayer.Entities.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\bin\Debug\ThreeLayer.Entities.pdb
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\obj\Debug\ThreeLayer.Entities.csprojAssemblyReference.cache
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\obj\Debug\ThreeLayer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\obj\Debug\ThreeLayer.Entities.dll
+C:\Users\Татьяна\source\repos\ThreeLayer\ThreeLayer.Entities\obj\Debug\ThreeLayer.Entities.pdb
